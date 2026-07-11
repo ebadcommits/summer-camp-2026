@@ -282,3 +282,17 @@ header p{
 .ahad{
     font-size: 30px;
 }
+
+footer{
+
+    background:#f0f8af;
+
+    color: rgb(68, 68, 68);
+
+    text-align:center;
+
+    padding:40px 20px;
+
+    margin-top:50px;
+
+}
