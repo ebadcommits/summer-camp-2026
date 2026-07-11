@@ -22,7 +22,7 @@ header h1{
     color: rgb(68, 68, 68);
     font-size: 5rem;
     text-align: center;
-    margin: 2rem;
+    margin: 8rem 2rem 0rem 2rem;
     font-weight: 900;
     /* margin-bottom: 1.25rem; */
 }
@@ -30,7 +30,7 @@ header h1{
 header p{
     text-align: center;
     font-size: 2.5rem;
-    margin: 3.125rem;
+    margin: 1rem 2rem 8rem 2rem;
 }
 
 .hasnain{
@@ -298,9 +298,9 @@ footer{
 }
 
 
-@media (min-width: 300px) {
+@media (min-width: 100px) {
     html, body {
-        font-size: 3vw;
+        font-size: 2vw;
     }
     span{
         display: block;
@@ -312,7 +312,22 @@ footer{
 
 @media (min-width: 400px) {
     html, body {
-        font-size: 1.5vh;
+        font-size: 1vh;
+    }
+    span{
+        display: block;
+    }
+    footer{
+        font-size: 1.25rem;
+    }
+    header p{
+        font-size: 2vh;
+    }
+}
+
+@media (min-width: 768px) {
+    html, body {
+        font-size: 1.2vh;
     }
     span{
         display: block;
@@ -324,7 +339,7 @@ footer{
 
 @media (min-width: 1200px) {
     html, body {
-        font-size: 16px;
+        font-size: 12px;
     }
     span{
         display: inline;
