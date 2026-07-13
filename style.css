@@ -289,6 +289,34 @@ header p{
     font-size: 1.875rem;
 }
 
+.abdulraheem{
+    background: rgb(52, 85, 230);
+    width: 100%;
+    padding: 1.25rem;
+    text-align: center;
+    color: rgb(224, 214, 62);
+}
+.abdulraheem h1{
+    font-size: 2.5rem;
+}
+.abdulraheem p{
+    font-size: 1.875rem;
+}
+
+.abdulahad{
+    background: rgb(90, 179, 221);
+    width: 100%;
+    padding: 1.25rem;
+    text-align: center;
+    color: rgb(199, 41, 41);
+}
+.abdulahad h1{
+    font-size: 2.5rem;
+}
+.abdulahad p{
+    font-size: 1.875rem;
+}
+
 footer{
     background:#f0f8af;
     color: rgb(68, 68, 68);
